@@ -22,6 +22,7 @@ $RECYCLE.BIN/
 *.lnk
 
 TEST
+izmena
 
 
 ### NetBeans ###
