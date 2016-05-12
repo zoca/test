@@ -21,6 +21,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+TEST
+
 
 ### NetBeans ###
 nbproject/private/
